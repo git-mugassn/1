@@ -1,0 +1,5 @@
+SSH: ssh -J host.mugassn.dpdns.org Mugassn@wdc-1
+RDP step1: ssh -L 33389:wdc-1:3389 host.mugassn.dpdns.org
+RDP step2: mstsc /v:localhost:33389
+username: Mugassn
+password: Zvvm6XeiMhHK
